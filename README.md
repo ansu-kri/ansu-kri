@@ -37,50 +37,8 @@
 <br>
 <br>
 
-<h3 align="center">Languages and Tools:</h3>
-<table align="center">
-<tbody>
-
-<td width="100%" align="center">
-<span><b>HTML</b></span><br><br>
-<img height="64px" width="80%" alt="HTML5"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-</td>
-<td  align="center">
-<span><b>CSS</b></span><br><br>
-<img height="64px"  width="80%" alt="CSS3"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-</td>
-<td align="center">
-<span><b>JavaScript</b></span><br><br>
-<img height="64px"  width="80%" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-</td>
-<td align="center">
-<span><b>ReactJs</b></span><br><br>
-<img height="64px"  width="80%" alt="ReactJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-</td>
-
-
-
-<td width=55%" align="center">
-<span><b>Redux</b></span><br><br>
-<img height="64px" width="80%" alt="Redux" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
-</td>
-
-<td  align="center">
-<span><b>NodeJs</b></span><br><br>
-<img height="64px"  width="80%" alt="NodeJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-</td>
-
-<td align="center">
-<span><b>ExpressJs</b></span><br><br>
-<img height="64px"  width="80%" alt="ExpressJs" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png">
-</td>
-<td align="center">
-<span><b>MongoDb</b></span><br><br>
-<img height="64px"  width="80%" alt="MongoDb" src="https://cdn.iconscout.com/icon/free/png-128/mongodb-4-1175139.png">
-</td>
-
-</tbody>
-</table>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
 <br>
 <br>
