@@ -6,24 +6,9 @@
 
 <br>
 
-- 🌱 I’m currently learning **Adavance React/Redux**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ansu-kri?tab=repositories](https://github.com/ansu-kri?tab=repositories)
-
-- 💬 Ask me about **HTML, CSS, JavaScript, ReactJs**
-
-- 📫 How to reach me **ansukummari@gmail.com**
-
-- ⚡ Fun fact **Knowledge is the Key to Build your Future.**
-
-
-<br>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ansu-kri&label=Profile%20views&color=0e75b6&style=flat" alt="Ansukumari" /> </p>
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ansu-kri" alt="Ansukumari" /> </p>
-
-
 
 <br>
 
