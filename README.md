@@ -27,16 +27,19 @@
 
 <br>
 
-<h3 align="center">Where To Find Me: 📫</h3>
-<div align="center" display="flex">
-  <a  href="https://www.linkedin.com/in/iamansu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a  href="ansukummari@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a  href="https://github.com/ansu-kri" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  
-</div>
+<img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" alt="img" align="right" width="400"/>
 
-<br>
-<br>
+- 🌱 I’m currently learning Advance React.
+- 👯 I’m looking to collaborate with other Developers :wink:
+- 🥅 2022 Goals : Contribute to Open Source projects
+- 💬 Ask me about anything, I am happy to help :smile:
+- 📬 How to reach me: <a href="https://www.linkedin.com/in/iamansu" target="blank">Let's get in touch!</a>
+- 🧗 I try to : Go beyond and push the bounds
+- 📄 My <a href="https://drive.google.com/file/d/1IIy1bgO3PtLyOwPxeOSiULMLm0cdkDiQ/view?usp=sharing">Resume</a> 📄
+- ⚡ Fun fact : **Knowledge is the Key to Build your Future.**
+<br></br>
+<br></br>
+<hr/>
 
  ## 🚀 Languages and Tools:
  
