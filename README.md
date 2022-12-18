@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning Advance React.
 - 👯 I’m looking to collaborate with other Developers :wink:
-- 👨‍💻 All of my projects are available at [[https://incandescent-gaufre-5716af.netlify.app/](https://github.com/ansu-kri?tab=repositories)](https://github.com/ansu-kri?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://incandescent-gaufre-5716af.netlify.app/](https://github.com/ansu-kri?tab=repositories)
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: <a href="https://www.linkedin.com/in/iamansu" target="blank">Let's get in touch!</a>
 - 🧗 I try to : Go beyond and push the bounds
