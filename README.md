@@ -20,7 +20,7 @@
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: <a href="https://www.linkedin.com/in/iamansu" target="blank">Let's get in touch!</a>
 - 🧗 I try to : Go beyond and push the bounds
-- 📄 My <a href="https://drive.google.com/file/d/1IIy1bgO3PtLyOwPxeOSiULMLm0cdkDiQ/view?usp=sharing">Resume</a> 📄
+- 📄 My <a href="https://drive.google.com/file/d/1YfATExF4w-u0N-7LiCKyCDq0oar5cXHn/view?usp=sharing">Resume</a> 📄
 - ⚡ Fun fact : **Knowledge is the Key to Build your Future.**
 <br></br>
 <br></br>
