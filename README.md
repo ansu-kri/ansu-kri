@@ -37,11 +37,7 @@
 <br>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ansu-kri&show_icons=true&locale=en&layout=compact" alt="ansu-kri" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ansu-kri&show_icons=true&locale=en" alt="ansu-kri" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ansu-kri&" alt="ansu-kri" /></p>
 
 
 
