@@ -37,20 +37,12 @@
 <br>
 <br>
 
-<h3 align="left">My GitHub Stats:</h3>
-<p align="center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulzhp&show_icons=true&locale=en&layout=compact" alt="rahulzhp" /></p>
 
-<p>
-    <img  src="https://github-readme-stats.vercel.app/api?username=ansu-kri&show_icons=true&locale=en" alt="Ansukumari" />
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ansu-kri&" alt="Ansukumari" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulzhp&show_icons=true&locale=en" alt="rahulzhp" /></p>
 
-<p>
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ansu-kri&show_icons=true&locale=en&layout=compact" alt="AnsuKumari" />
-</p>
-<p>
-   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=ansu-kri&theme=gruvbox&hide_border=true&area=true"  width="100%"/>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulzhp&" alt="rahulzhp" /></p>
+
 
 
 
