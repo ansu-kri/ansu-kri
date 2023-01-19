@@ -46,7 +46,7 @@
 </p>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ansu-kri&show_icons=true&locale=en&layout=compact" alt=Ansukumari" />
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ansu-kri&show_icons=true&locale=en&layout=compact" alt="AnsuKumari" />
 </p>
 <p>
    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=ansu-kri&theme=gruvbox&hide_border=true&area=true"  width="100%"/>
