@@ -50,7 +50,7 @@ A Full Stack MERN Application with:
 
 Architecture: Separate frontend & backend with environment-based configuration and modular folder structure.
 
-🔗 Repository: (Add your link here)
+🔗 Repository: https://github.com/ansu-kri?tab=repositories
 
 ---
 
@@ -68,8 +68,8 @@ Architecture: Separate frontend & backend with environment-based configuration a
 
 ## 📫 Contact
 
-LinkedIn: (Add LinkedIn link)  
-Email: (Add Professional Email)
+LinkedIn: https://www.linkedin.com/in/iamansu/ 
+Email: ansukummari@gmail.com
 
 ---
 
