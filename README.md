@@ -42,6 +42,7 @@ Git • GitHub • Postman • Vercel • Netlify • VS Code
 A Full Stack MERN Application with:
 
 - Email + OTP Authentication
+- Payment Integration 
 - Google OAuth Login
 - JWT-based secure sessions
 - Role-based architecture (scalable)
