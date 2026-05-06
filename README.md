@@ -9,7 +9,7 @@
 
 ## 👩‍💻 Professional Summary
 
-Full Stack Developer with 3+ years of experience in building high-performance web applications using React, Redux Toolkit, Node.js, Express and MongoDB.
+Full Stack Developer with 3+ years of experience in building high-performance web applications using React, Next.js, Redux Toolkit, Node.js, Express and MongoDB.
 
 Strong focus on:
 - Clean architecture
